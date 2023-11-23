@@ -1,0 +1,112 @@
+﻿LETTRE DE MOTIVATION
+=====================================================
+JOÃO TAVARES FILHO SEGUNDO
+1943-A Darryl Drive
+Tallahassee, Floride, 32301
+(850) 559-4758
+tauvares@gmail.com
+
+
+Cher gestionnaire des ressources humaines,
+
+J'écris avec grand intérêt pour postuler au poste de Software Developer chez FSU. J'ai aussi de l'expérience dans le développement de logiciels web et de logiciels client-serveur. Je crois qu'avec ma compétence et mon expérience dans le développement de logiciels, je serais un excellent candidat pour le poste.
+
+S'il vous plaît permettez-moi de mettre en évidence mes compétences et mon expérience:
+
+?? 12 ans d'expérience en développement de logiciels
+?? 3 ans d'expérience en support technique
+?? Connaissance dans les trois langues requises et bien d'autres
+?? Diplôme de 4 ans en informatique
+?? Capacité de traiter avec toutes les parties prenantes, en les aidant à résoudre les problèmes rapidement
+?? Un joueur d'équipe qui peut aussi travailler efficacement de manière indépendante
+
+
+Je suis très intéressé à travailler avec vous et je suis fier de faire du bon travail. Veuillez trouver en pièce jointe pour votre considération de mon curriculum vitae qui démontrerait mes antécédents.
+
+J'apprécierais une chance de vous rencontrer et montrer comment je peux contribuer à votre compagnie. N'hésitez pas à m'appeler ou à envoyer un courriel. J'ai hâte d'avoir de tes nouvelles.
+
+Merci pour votre temps et votre considération.
+
+Votre sincèrement,
+
+João Tavares Filho Segundo.
+=====================================================
+
+CURRICULUM VITAE
+=====================================================
+JOÃO TAVARES FILHO SEGUNDO
+1943 #A Darryl Drive, Tallahassee, Floride, 32301
+Tel: (850) 559-4758
+tauvares@gmail.com
+
+
+COMPETENCES ET COMPETENCES:
+
+?? Langages informatiques: Javascript (Proficient), PHP (Proficient), Java (intermédiaire), C ++ (intermédiaire), Delphi (Expert), ASP (Expert), ASP.NET, VB, ASP.NET, C #, CSS, HTML, JavaScript, SQL;
+?? Systèmes de base de données: MySQL, Oracle, MS SQL Server, PostgreSQL;
+?? Systèmes d'exploitation: Windows, Linux, FreeBSD;
+?? Frameworks: Laravel, Zend, Doctrine, Simphonie, Spring, Struts, Hibernate, Ant;
+?? Applications informatiques: Eclipse, Borland Delphi, Adobe Dreamweaver, Microsoft Visual Studio, Adobe Photoshop;
+?? Méthodologies de développement: UML, Design Patterns, MVC, Méthodologie Agile, Programmation XP, Scrum;
+
+ L'EXPÉRIENCE PROFESSIONNELLE:
+Développement indépendant et privé
+Développement PHP
+?? Bolão: Système responsable de prédire les résultats d'un certain match de football dans le futur basé sur les derniers résultats des deux équipes impliquées. Les meilleures suppositions ont été atteintes en utilisant un historique de 4 jeux, ou une période d'un mois;
+?? Contas (factures dans une traduction libre): En utilisant les frameworks Zend, Doctrine et simphony, ce système est chargé de concentrer les dépenses du ménage, en aidant les utilisateurs à contrôler les finances de la maison.
+
+Développement C ++:
+?? Implémenter un B-tree sans défaut (sans bugs) en utilisant des fichiers;
+
+Chef de la consolidation des données, MPDFT, Brasília-DF, Brésil, janvier 2009 à aujourd'hui
+La gestion:
+?? Supervision du travail effectué par les secteurs autour de la zone métropolitaine et rapport aux instances supérieures
+
+Développement Delphi:
+?? Redéveloppement de Sistema de Medidas Alternativas - SMA (Les voies alternatives du système pénitentiaire dans une traduction libre), en l'adaptant aux nouvelles normes de programmation de MPDFT et incluant de nouveaux rapports liés à la conformité;
+?? Maintenance évolutive et correctionnelle sur SMA;
+
+ASP / ASP.NET / C # Développement:
+?? Création de Requêtes / Rapports évaluant le travail effectué par MPDFT en rapport avec les alternatives à la prison dans la zone métropolitaine;
+?? Maintenance sur l'intranet et la page internet du MPDFT;
+
+
+Développeur de systèmes, MPDFT, Brasília-DF, Brésil, janvier 2003 à décembre 2008
+Développement et maintenance de Delphi:
+?? SMA ?? Sistema de Medida Alternativas (Les voies alternatives du système pénitentiaire dans une traduction libre) ?? Responsable d'aider les procureurs à contrôler les auteurs de crimes, les violations, le temps restant, le montant total déjà versé aux institutions, fournir des rapports sur les quantités destinées aux institutions le long de l'état, et les aider à décider où les efforts devraient être mieux appliqué;
+?? ESTTHEMIS ?? Système Estatistic conçu sur la demande de corregedory, dans le but d'évaluer si la charge de travail des procureurs est juste, en comparant le nombre de processus sur lesquels ils travaillent avec les autres collègues. Établit également des limites sur les charges de travail, en déterminant s'il est temps d'embaucher de nouveaux procureurs ou de réaffecter les procureurs à d'autres domaines où ils sont plus nécessaires. Travaux de création de connexions sur Datawarehouse;
+?? SISREC ?? Sistema de Recursos Constitucionais (Système de recours constitutionnel) ?? Contrôle les processus qui sont jugés dans une seconde instance, et émet des alertes aux travailleurs, en évitant les appels à expiration;
+?? SIGA ?? Système conçu pour RH responsable de maintenir l'information du personnel mis à jour;
+?? Sistema de Controle de Visitas (système de contrôle des visiteurs) ?? Système responsable de contrôler l'entrée et la sortie des visiteurs des différents bâtiments de MPDFT, et en émettant des alertes de personnes spéciales, sur leur allocation ou diferente traitement ainsi.
+?? Sistema de Violência Doméstica (Système de violence domestique) ?? Responsable de maintenir, sur la base du processus, les personnes qui ont passé dans le MPDFT qui ont été impliqués dans des cas de violence domestique, y compris les victimes, agresseurs et leurs proches et les actions appliquées au cas par cas;
+?? Sistema Psicossocial ?? Responsable de la conservation des informations relatives aux cas de tutorat, de curatelas et de cas d'abus sexuels, de mauvais traitements et de viols;
+?? CAOCRIM ?? Conserver toute l'information recueillie sur les gens, les comptes, les lignes d'écoute liées au crime organisé. Le système permet de nombreuses sortes d'informations différentes.
+
+Développement Java:
+?? Interceptação Telefônica (Téléphonique) ?? Module développé pour assister le système CAOCRIM. Extrait des informations du système principal du MPDFT et s'intègre aux numéros de téléphone capturés par le système CAOCRIM;
+
+Développement ASP:
+?? SIGA -Intranet version ?? La version en lecture seule de SIGA aide les collaborateurs à trouver facilement les informations sur les départements et leurs employés;
+?? Nouveau système d'application des stagiaires en ligne;
+?? Intranet ?? s travail effectué par les procureurs sur Medidas alternativas par période en utilisant la base de données SMA ??
+Technicien de soutien, MPDFT, Brasília-DF, Brésil, octobre 1999 à décembre 2002
+?? Installation de nouveaux ordinateurs, activités de sauvegarde, maintenance d'imprimantes et d'ordinateurs;
+?? Fournir des solutions aux problèmes des utilisateurs personnellement, par téléphone et à distance;
+?? Création d'image cd avec le système d'exploitation et les principaux programmes utilisés dans l'organisation, réduisant le temps d'installation de 70 pour cent;
+
+ÉDUCATION:
+
+?? Bachelier en sciences informatiques à l'UNB (Universidade de Brasilia, Brésil)
+?? Formation à JBOSS;
+?? Formation en .NET;
+?? Formation en Java;
+?? Formation à Photoshop
+?? Formation en test de logiciels;
+?? Connaissance de UML, des modèles de conception, MVC, de la méthodologie Agile;
+
+AUTRES ACCOMPLISSEMENTS:
+?? Classé 6ème parmi 900 candidats dans le test d'admission à l'université;
+?? Assistant du professeur sur le cours Calculus 1 (2e semestre 1998);
+?? Assistant du professeur sur le cours d'introduction à l'informatique (du 1er semestre 1999 au 2ème semestre 2002);
+?? Classé 4ème de 1200 candidats dans le test d'admission MPDFT;
+

@@ -1,0 +1,117 @@
+COVER LETTER
+==========================================================
+JOÃO TAVARES FILHO SEGUNDO
+1943-A Darryl Drive
+Tallahassee, Florida, 32301
+(850) 559-4758
+tauvares@gmail.com
+
+
+Dear HR Manager:
+
+I write with great interest to apply for the position of Software Developer at FSU. I have a background in developing web and client-server softwares as well. I believe that with my ability and experience in developing softwares, I would be an excelent candidate for the job.
+
+Please allow me to highlight my skills and experience:
+
+•	12-years experience developing softwares
+•	3-years experience in technical support
+•	Knowledge in all the three languages required, and many others
+•	4-years degree in Computer Science
+•	Ability to deal with all the stakeholders, helping them to solve the problems fastly
+•	A team player who can also work effectively independent
+
+
+I am very interested in working with you and I take pride in doing a good job. Please find attached for your consideration my resumé which would demonstrate my track record. 
+
+I would appreciate a chance to meet with you and show how I can contribute to your company. Please feel free to call me or email. I look forward to hear from you soon.
+
+Thank you for your time and consideration.
+
+Yours truly,
+
+João Tavares Filho Segundo.
+==========================================================
+
+
+CURRICULUM VITAE
+==========================================================
+JOÃO TAVARES FILHO SEGUNDO
+1943 #A Darryl Drive, Tallahassee, Florida, 32301
+Tel: (850) 559-4758 
+tauvares@gmail.com
+
+
+SKILLS & COMPETENCIES:
+
+•	Computer Languages: PHP(Proficient), Java(intermediate), C++(intermediate), Delphi(Expert), ASP(Expert), ASP.NET, VB, ASP.NET, C#, CSS, HTML, JavaScript, SQL;
+•	Database Systems: MySQL, Oracle, MS SQL Server, PostgreSQL;
+•	Operating Systems: Windows, Linux, Freebsd;
+•	Frameworks: Zend, Doctrine, Simphony, Spring, Struts, Hibernate, Ant; 
+•	Computer Applications: Eclipse, Borland Delphi, Adobe Dreamweaver, MS Visual Studio, Adobe Photoshop;
+•	Development Methodologies: UML, Design Patterns, MVC, Agile Methodology, XP Programming, Scrum;
+ WORK EXPERIENCE:
+Free-lance and private Development
+PHP Development:
+•	Bolão: System responsible to predict the results of a certain soccer game in the future based on the last results of both teams involved. Best guesses were reached using a 4-games history, or a period of a month; 
+•	Contas (Bills in a free translation): Using Zend, Doctrine and simphony frameworks, this system is responsible for concentrate the household expenses, helping the users to control the house finances.
+
+C++ Development:
+•	Implemented a flawless (free of bugs) B-tree using files; 
+
+Chief of Data Consolidation, MPDFT, Brasília-DF, Brazil, January 2009 to present 
+Management:
+•	Supervision on the work done by the sectors around the Metro Area and reporting to the higher instances
+
+Delphi Development:
+•	Redeveloping of Sistema de Medidas Alternativas – SMA (Alternative Ways of Prison System in a free translation), adequating it to MPDFT’s newest programming stantards and including newer reports related to compliance;
+•	Evolving and correctional maintenance on SMA;
+
+ASP/ASP.NET/C# Development:
+•	Creation of Queries/Reports evaluating the work done by MPDFT related to alternative ways to prison in the metro area;
+•	Maintenance on the MPDFT’s intranet and internet page;
+
+
+Systems developer, MPDFT, Brasília-DF, Brazil, January 2003 to December 2008
+Delphi Development and Maintenance:
+•	SMA – Sistema de Medida Alternativas (Alternative Ways of Prison System in a free translation) – Responsible for helping the prosecutors on controlling the crime authors, the violations, the time remaining, the total amount already paid to the institutions, providing reports on the quantities destined to the institutions along the state, and helping them to decide where the efforts should be better applied;
+•	ESTTHEMIS – Estatistic system designed on requesting of corregedory, with the purpose of evaluate if the prosecutors workload is right, comparing the number of processes that they are working on with the other coworkers. Also establishes limits on workloads, determining if it is time hire new prosecutors or reallocate prosecutors to other áreas where they are more needed. Works making connections on datawarehouse;
+•	SISREC – Sistema de Recursos Constitucionais (Constitutional Appealings System) – Controls the processes which are judged in a second instance, and issues alerts to the workers, avoiding the appealings to expire;
+•	SIGA – System designed to HR responsible to mantain the personnel information updated;
+•	Sistema de Controle de Visitas (Visitors Controlling System)– System responsible to control the entrance and exit of the visitors of the diferente buildings of MPDFT, and issuing alerts of special people, about their allowance or diferente treatment as well.
+•	Sistema de Violência Doméstica (Domestic Violence System)– Responsible to mantain, based on the process, the people who passed in the MPDFT who were involved in Domestic Violence cases, including victims, agressor and their relatives and the actions aplied case by case;
+•	Sistema Psicossocial – Responsible to mantain information related to the cases of tutoring and curatelas and cases of sexual abuse, bad treatment and rape;
+•	CAOCRIM – Mantain all information gathered about people, acounts, bugged lines related to the organized crime. The system permits many diferent kinds of informations crossing;
+
+Java Development:
+•	Interceptação Telefônica (Telephonic)– Module developed to assist the CAOCRIM system. Extracts some information of the MPDFT’s main system and integrate with the telephone numbers captured by CAOCRIM system;
+
+
+ASP Development:
+•	SIGA -Intranet version – The read only version of SIGA helps the coworkers to find easily the information about the departments and their people;
+•	New trainees application system online;
+•	Intranet’s work done by prosecutors on Medidas alternativas by period using SMA’s database; 
+Support Technician, MPDFT, Brasília-DF, Brazil, October 1999 to December 2002
+•	Instalation of new computers, backup activities, printers and computers maintenance as well;
+•	Provide solutions to users problems personally, by phone and remotely;
+•	Creation of image cd with Operating System and main programs used in the organization, reducing the time of installing by 70 percent;
+
+EDUCATION:
+
+•	Bachelor in Computing Science at UNB (Universidade de Brasília – Brazil)
+•	Training in JBOSS;
+•	Training in .NET;
+•	Training in Java;
+•	Training in Photoshop;
+•	Training in Software Testing;
+•	Knowledge of UML, Design Patterns, MVC, Agile Methodology;
+
+OTHER ACHIEVEMENTS:
+•	Ranked 6th from 900 candidates in the university admission test;
+•	Teacher’s assistant on Calculus 1 course (2nd semestre 1998);
+•	Teacher’s assistant on Introduction to Computing Science course (from 1st semestre of 1999 until 2nd semestre of 2002);
+•	Ranked 4th from 1200 candidates in the MPDFT’s admission test;
+
+
+
+
+
